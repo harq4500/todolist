@@ -1,0 +1,6 @@
+@import 'bootstrap';
+@import 'bootstrap-icons';
+
+.invalid-feedback{
+    display:block;
+}
